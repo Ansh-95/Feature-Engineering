@@ -60,7 +60,7 @@ This project demonstrates comprehensive feature engineering techniques essential
 ## Getting Started
 1. Clone this repository
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Ansh-95/Feature-Engineering.git
    ```
 2. Install required packages
    ```bash
